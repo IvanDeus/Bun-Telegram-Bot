@@ -1,0 +1,7 @@
+{
+  "BOT_TOKEN": "your-bot-token",
+  "WEBHOOK_PATH": "/webhook",
+  "LOCAL_HOST": "localhost",
+  "LOCAL_PORT": 7777,
+  "NGROK_AUTH_TOKEN": "your-ngrok-token"
+}
