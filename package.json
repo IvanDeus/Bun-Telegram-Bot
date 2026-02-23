@@ -2,10 +2,7 @@
   "name": "telegram-bot",
   "version": "1.0.0",
   "description": "Telegram bot using grammY with webhook and ngrok",
-  "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
-  },
+  "main": "bot.ts",
   "keywords": [
     "telegram",
     "bot",
